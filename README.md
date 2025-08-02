@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Marc</h1>
+<h1 align="center">Hola, soy Marc 👋</h1>
 <h3 align="center">Desarrollador web especializado en Angular y Laravel</h3>
 
 <p align="center">
