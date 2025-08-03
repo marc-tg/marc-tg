@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Marc 👋</h1>
-<h3 align="center">Desarrollador web especializado en Angular y Laravel</h3>
+<h3 align="center">Desarrollador Fullstack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Apasionado+por+el+desarrollo+web;Frontend+en+Angular;Backend+con+Laravel;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
