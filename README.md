@@ -51,8 +51,7 @@
 
 ### 📫 Contacto
 
-- 📧 Email: marctg2005@gmail.com  
-- 💼 LinkedIn: [marc-toledano-garcia-544812310](https://www.linkedin.com/in/marc-toledano-garcia-544812310)
+- 📧 Email: marctg.contacto@gmail.com  
 
 ---
 
