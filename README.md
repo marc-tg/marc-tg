@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🎯 Actualmente trabajando en mi **portfolio personal** usando Angular y Laravel.
-- 🧠 Enfocado en **arquitectura limpia**, testing y buenas prácticas.
+- 🎯 Actualmente trabajando en mi **portfolio personal**.
+- 🧠 Enfocado en **arquitectura limpia**, y buenas prácticas.
 - ⚡ Me gustan los proyectos con propósito, el código limpio y aprender haciendo.
 
 ---
